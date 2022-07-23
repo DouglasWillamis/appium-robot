@@ -1,0 +1,9 @@
+### Python ###
+# Byte-compiled / optimized / DLL files
+resources/factories/__pycache__/
+
+### VisualStudioCode ###
+.vscode/*
+
+### Logs ###
+logs/*
