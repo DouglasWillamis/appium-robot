@@ -56,14 +56,19 @@ pip install -r requirements.txt
 
 OU instalar as bibliotecas de forma de forma isolada.
 
-Instalar a biblioteca [robotframework-appiumlibrary](http://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html) (não precisa se vc instalou via requirements.txt):
+Instalar a biblioteca [robotframework-appiumlibrary](http://serhatbolsu.github.io/robotframework-appiumlibrary/AppiumLibrary.html) (não precisa se você instalou via requirements.txt):
 ```
 pip install -U robotframework-appiumlibrary
 ```
 
-Instalar o [appium-python-client](https://pypi.org/project/Appium-Python-Client/) (não precisa se vc instalou via requirements.txt):
+Instalar o [appium-python-client](https://pypi.org/project/Appium-Python-Client/) (não precisa se você instalou via requirements.txt):
 ```
 pip install -U appium-python-client
+```
+
+Instalar a biblioteca [faker](https://pypi.org/project/Faker/) (não precisa se você instalou via requirements.txt):
+```
+pip install -U Faker
 ```
 
 Para executar o projeto:
